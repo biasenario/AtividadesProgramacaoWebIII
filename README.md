@@ -1,2 +1,2 @@
 # AtividadesProgramacaoWebIII
-Repositório com as atividades da diciplina de programação WEB III. 
+Repositório com as atividades da disciplina de programação WEB III. 
